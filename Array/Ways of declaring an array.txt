@@ -1,0 +1,20 @@
+1)
+var-name = new type [size];
+2)
+int intArray[];    //declaring array
+intArray = new int[20];  // allocating memory to array
+3)
+int[] intArray = new int[20]; // combining both statements in one
+4)
+int intArray[]; 
+or 
+int[] intArray; 
+5) 
+// an array of references to objects of
+// the class MyClass (a class created by
+// user)
+
+MyClass myClassArray[];
+ 
+6)
+Object[]  ao,        // array of Object
